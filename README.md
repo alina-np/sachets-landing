@@ -1,4 +1,4 @@
 <img src="https://i.ibb.co/6W3xDgH/Screenshot-20250109-150540.png" alt="Демо проекта">
 <p>Лендинг Sachet</p>
-<p>Посмотреть проект: https://alina-np.github.io/sachets-landing.github.io/</p>
+<p>Посмотреть проект: https://alina-np.github.io/sachets-landing</p>
 <p>Функционал: лендинг, посвященный производству саше. Реализованы слайдеры, модальные окна и валидация формы на стороне клиента. Анимация с использованием библиотеки Gsap.js.</p>
